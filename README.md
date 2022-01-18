@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @WeshDevelopment
+- 👀 I’m interested in HTML, PHP, JS, SQL, C#, LUA, Phyton
+- 🌱 I’m currently learning Swift
+- 📫 How to reach me Discord = levolife#0001 or ! Damon#1111
